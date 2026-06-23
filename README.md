@@ -1,0 +1,2 @@
+# resource_gif_and_image_and_other
+resource
