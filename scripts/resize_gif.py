@@ -3,8 +3,8 @@ Resize images to a target width with proportional height scaling.
 Supports GIF (preserving animation), PNG, JPG, WebP, BMP, and more.
 
 Usage:
-  python resize_gif.py -i arc_cute_gif -w 160
-  python resize_gif.py -i arc_cute_gif -o resized -w 160 -f gif,png,jpg
+  python scripts/resize_gif.py -i resource/arc_cute_gif -w 160
+  python scripts/resize_gif.py -i resource/arc_cute_gif -o output -w 320 -f gif,png,jpg
 """
 import os
 import argparse
